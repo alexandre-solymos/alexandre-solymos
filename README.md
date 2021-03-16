@@ -19,11 +19,5 @@ Seo | CssHtml | DeisgnWeb | LaravelJunior
 </p>
 
 
-<style>
-  .markdown-body p:last-child {
-  display:flex;
-  justify-content:center;
-  align-content:center;
-  }
-</style>
+
 
