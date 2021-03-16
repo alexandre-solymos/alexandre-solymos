@@ -10,7 +10,7 @@ Mes projets ? :
 - ⚡ Objectif prochain me spécialiser en Js et pourquoi pa le VueJS
 
 Mes Compétences ? :
-Seo | CssHtml | DeisgnWeb | LaravelJunior
+Seo | CssHtml | DesignWeb | LaravelJunior
 
 
 <p align="center">
