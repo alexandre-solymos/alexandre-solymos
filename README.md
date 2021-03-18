@@ -7,7 +7,7 @@ Mes projets ? :
 - 🔭 Framework Css Tifly a base de grille et pourquoi pas bientôt en flex ?
 - 🌱 Je continue d'apprendre Laravel
 - 💬 Je suis disponible pour toutes questions
-- ⚡ Objectif prochain me spécialiser en Js et pourquoi pa le VueJS
+- ⚡ Objectif prochain me spécialiser en FrOnT
 
 Mes Compétences ? :
 Seo | CssHtml | DesignWeb | LaravelJunior
