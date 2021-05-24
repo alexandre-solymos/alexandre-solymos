@@ -18,6 +18,12 @@ Seo | CssHtml | DesignWeb | LaravelJunior
   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="70">
 </p>
 
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alexandre-solymos&theme=dracula" alt="alexandre solymos" />
+</p>
+
 <h2>📊 Stats</h2>
 
 <p align="center">
