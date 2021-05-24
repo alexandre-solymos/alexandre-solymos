@@ -18,6 +18,12 @@ Seo | CssHtml | DesignWeb | LaravelJunior
   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="70">
 </p>
 
+<h2>📊 Stats</h2>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Alexandre solymos" src="https://activity-graph.herokuapp.com/graph?username=alexandre-solymos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
 
 
 
