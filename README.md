@@ -7,7 +7,6 @@ Mes projets ? :
 - 🔭 Framework Css RespiCSS a base de grille et pourquoi pas bientôt en flex ?
 - 🌱 Je continue d'apprendre Laravel & smarty
 - 💬 Je suis disponible pour toutes questions
-- ⚡ Objectif prochain me spécialiser en FrOnT
 
 Mes Compétences ? :
 Seo | CssHtml | DesignWeb | LaravelJunior
